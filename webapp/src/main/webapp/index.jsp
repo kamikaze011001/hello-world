@@ -16,7 +16,7 @@
     </label>
   </div>
   <br>
-  <div class="container" style="background-color:#ffffff">
+  <div class="container" style="background-color:#06f24d">
     <button type="button" class="cancelbtn">Cancel</button>
     <span class="psw">Forgot <a href="#">password?</a></span>
   </div>
